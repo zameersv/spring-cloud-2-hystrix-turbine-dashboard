@@ -6,6 +6,7 @@
   3. Hystrix Dashboard
 ~~~  
 ### Please check my LinkedIn Article for more explanations.
+https://www.linkedin.com/pulse/micro-services-using-spring-cloud-zameer-ahmed-shaik/?published=t
 
 ## Project Build
 ### Pre-requisites
